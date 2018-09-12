@@ -1,0 +1,64 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: url(../img/thomas-charters-296769-unsplash.jpg) no-repeat 50% 50%;
+  background-size: cover;
+}
+
+main {
+  width: 50%;
+  margin: 3rem auto 1.5rem;
+  padding: 3rem;
+  background-color: #fff;
+  box-sizing: border-box;
+}
+
+main h1 {
+  margin: 0;
+  line-height: 1;
+  font-size: 7.5rem;
+  font-weight: 900;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+  color: #212121;
+}
+
+main h2 {
+  color: #BDBDBD;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 13rem 0 0;
+  border-top: .5rem solid #BDBDBD;
+  padding-top: 1rem;
+  padding-right: 3rem;
+  display: inline-block;
+}
+
+footer {
+  width: 50%;
+  margin: 1.5rem auto;
+  padding: 0 3rem;
+  box-sizing: border-box;
+}
+
+footer p {
+  color: #fff;
+  text-align: right;
+  margin: 0;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: .875rem;
+}
+
+footer a {
+  display: inline-block;
+  line-height: 1.5;
+  text-decoration: none;
+  padding: 0 .25rem;
+  margin-left: .25rem;
+  color: #fff;
+  background-color: #d32f2f;
+}
+
+footer a:hover {
+  background-color: #212121;
+}
